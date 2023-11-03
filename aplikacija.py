@@ -1,1 +1,1 @@
-print("Poydrav iz aplikacije od Mihaela Ecimovica")
+print("Poydrav iz aplikacije od Mihaela Ecimovica 123123")
